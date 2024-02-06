@@ -1,0 +1,864 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "TechCo",
+    "location": "Remote",
+    "jobType": "Full-Time",
+    "salary": "$80,000 - $100,000",
+    "description": "We are looking for a skilled Frontend Developer to join our dynamic team. You will be responsible for developing and maintaining user interfaces for our web applications.",
+    "requirements": [
+      "Strong proficiency in HTML, CSS, and JavaScript",
+      "Experience with React.js or similar frontend frameworks",
+      "Good understanding of responsive design principles",
+      "Excellent problem-solving and debugging skills"
+    ],
+    "responsibilities": [
+      "Develop new user-facing features",
+      "Build reusable code and libraries for future use",
+      "Ensure the technical feasibility of UI/UX designs",
+      "Optimize application for maximum speed and scalability"
+    ],
+    "whoYouAre": [
+      "Passionate about building great user experiences",
+      "Attention to detail and a good eye for aesthetics",
+      "Team player with good communication skills"
+    ],
+    "niceToHave": [
+      "Familiarity with CSS preprocessors like Sass or LESS",
+      "Experience with unit and integration testing"
+    ],
+    "requiredSkills": ["HTML", "CSS", "JavaScript", "React.js"],
+    "categories": ["Technology", "Development"],
+    "techStack": ["HTML", "CSS", "JavaScript", "React.js"],
+    "new": true,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/elijjaaahhhh/image/upload/v1677869413/bulb_hcp6mp.svg",
+    "postedAt": "2024-01-23",
+    "deadline": "2024-02-15",
+    "jobsavailaible" : 208
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "DataTech",
+    "location": "San Francisco, CA",
+    "jobType": "Full-Time",
+    "salary": "$90,000 - $110,000",
+    "description": "Join our Backend Development team and work on creating robust and scalable server-side applications. You will collaborate with cross-functional teams to design and implement backend solutions.",
+    "responsibilities": [
+      "Write clean and maintainable code for our backend services",
+      "Create database schemas that represent and support business processes",
+      "Implement security and data protection measures",
+      "Integrate user-facing elements developed by front-end developers with server-side logic"
+    ],
+    "whoYouAre": [
+      "You have a passion for coding and creating efficient backend systems",
+      "A team player who can also work independently",
+      "You have an analytical mind with problem-solving aptitude"
+    ],
+    "niceToHave": [
+      "Experience with cloud services like AWS, GCP, or Azure",
+      "Familiarity with Docker and Kubernetes"
+    ],
+    "requiredSkills": [
+      "Server-Side Languages",
+      "Database Management",
+      "RESTful APIs",
+      "Microservices",
+      "Version Control"
+    ],
+    "categories": ["Engineering", "Backend Development"],
+    "requirements": [
+      "Proficient in server-side languages such as Node.js, Python, or Java",
+      "Experience with database management systems (e.g., MySQL, MongoDB)",
+      "Understanding of RESTful APIs and microservices architecture",
+      "Familiarity with version control systems (e.g., Git)"
+    ],
+    "techStack": ["Node.js", "Python", "MongoDB"],
+    "new": false,
+    "featured": true,
+    "logo": "https://res.cloudinary.com/elijjaaahhhh/image/upload/v1627944503/login-v2.da80012f_ylazvp.svg",
+    "postedAt": "2024-01-22",
+    "deadline": "2024-02-10",
+    "jobsavailaible" : 182
+  },
+  {
+    "id": 3,
+    "title": "UX Designer",
+    "company": "Designify",
+    "location": "New York, NY",
+    "jobType": "Full-Time",
+    "salary": "$70,000 - $90,000",
+    "description": "We are looking for a talented UX Designer to create amazing user experiences. The ideal candidate should have an eye for clean and artful design and possess superior UX skills.",
+    "responsibilities": [
+      "Collaborate with product management and engineering to define and implement innovative solutions for product direction, visuals, and experience",
+      "Execute all visual design stages from concept to final hand-off to engineering",
+      "Conceptualize original ideas that bring simplicity and user-friendliness to complex design roadblocks"
+    ],
+    "whoYouAre": [
+      "Creative thinker with a vision",
+      "Attention to detail and a strong sense of aesthetics and design principles",
+      "Ability to work methodically and meet deadlines"
+    ],
+    "niceToHave": [
+      "Experience in creating wireframes, storyboards, user flows, process flows, and site maps",
+      "Knowledge in HTML, CSS, and JavaScript for rapid prototyping"
+    ],
+    "requiredSkills": [
+      "UX Design",
+      "Interaction Design",
+      "User-Centered Design"
+    ],
+    "categories": ["Design", "User Experience"],
+    "requirements": [
+      "Strong portfolio of design projects",
+      "Background in project management and research",
+      "Familiarity with interaction design and information architecture",
+      "Proficient in design software (e.g., Figma, Sketch, Adobe XD)"
+    ],
+    "techStack": ["Figma", "Sketch", "Adobe XD"],
+    "new": false,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/elijjaaahhhh/image/upload/v1614030929/image-geometry_1_rv6fy6.png",
+    "postedAt": "2024-01-21",
+    "deadline": "2024-02-05",
+    "jobsavailaible" : 121
+  },
+  {
+    "id": 4,
+    "title": "Product Manager",
+    "company": "TechCo",
+    "location": "Remote",
+    "jobType": "Full-Time",
+    "salary": "$90,000 - $110,000",
+    "description": "We are looking for a Product Manager to join our growing team. You will work closely with our engineering and design teams to guide products from conception to launch.",
+    "responsibilities": [
+      "Develop product roadmaps and define product vision and strategy",
+      "Work with cross-functional teams to deliver quality products on time",
+      "Analyze market trends and define product metrics to measure success"
+    ],
+    "whoYouAre": [
+      "Strategic thinker with strong leadership skills",
+      "Excellent communication and interpersonal skills",
+      "Driven and results-oriented with a customer-first mindset"
+    ],
+    "niceToHave": [
+      "Technical background with knowledge of software development processes",
+      "Experience with product lifecycle management"
+    ],
+    "requiredSkills": [
+      "Product Management",
+      "Team Collaboration",
+      "Agile Methodologies"
+    ],
+    "categories": ["Product", "Management"],
+    "requirements": [
+      "Proven experience in product management or as an associate product manager",
+      "Background in software development and program management is a plus",
+      "Familiarity with Agile framework",
+      "Organizational and leadership abilities"
+    ],
+    "techStack": ["Agile"],
+    "new": false,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/elijjaaahhhh/image/upload/v1613351932/7_large.png_qx1wvo.png",
+    "postedAt": "2024-01-20",
+    "deadline": "2024-02-03",
+    "jobsavailaible" : 90
+  },
+  {
+    "id": 5,
+    "title": "Data Scientist",
+    "company": "DataTech",
+    "location": "San Francisco, CA",
+    "jobType": "Full-Time",
+    "salary": "$100,000 - $120,000",
+    "description": "We are looking for a Data Scientist to join our team. You will be responsible for developing statistical learning models for data analysis and conducting tests and experiments.",
+    "responsibilities": [
+      "Analyze large, complex datasets to extract insights and decide on the appropriate techniques",
+      "Develop predictive models and machine learning algorithms",
+      "Present information using data visualization techniques",
+      "Collaborate with engineering and product development teams"
+    ],
+    "whoYouAre": [
+      "You are analytical and enjoy extracting stories from data",
+      "You are curious and driven by the desire to solve complex data problems",
+      "You have a collaborative mindset and are eager to share findings with your team"
+    ],
+    "niceToHave": [
+      "Experience in deep learning frameworks such as TensorFlow or Keras",
+      "Publications or presentations in recognized Machine Learning and Data Science communities"
+    ],
+    "requiredSkills": [
+      "Statistical Analysis",
+      "Machine Learning",
+      "Data Manipulation",
+      "Data Visualization"
+    ],
+    "categories": ["Data Science", "Analytics"],
+    "requirements": [
+      "Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets",
+      "Experience working with and creating data architectures",
+      "Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications",
+      "Experience analyzing data from 3rd party providers: Google Analytics, Site Catalyst, Coremetrics, Adwords, Crimson Hexagon, Facebook Insights, etc."
+    ],
+    "techStack": ["R", "Python", "SQL"],
+    "new": false,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/elijjaaahhhh/image/upload/v1613351931/memoji_waves_dhfqzl.png",
+    "postedAt": "2024-01-19",
+    "deadline": "2024-02-01",
+    "jobsavailaible" : 47
+  },
+  {
+    "id": 6,
+    "title": "DevOps Engineer",
+    "company": "TechCo",
+    "location": "Remote",
+    "jobType": "Full-Time",
+    "salary": "$90,000 - $110,000",
+    "description": "We are looking for a DevOps Engineer to join our team. You will be responsible for implementing and managing our CI/CD pipeline and ensuring that all systems are working properly.",
+    "responsibilities": [
+      "Build and set up new development tools and infrastructure",
+      "Work on ways to automate and improve development and release processes",
+      "Ensure that systems are safe and secure against cybersecurity threats",
+      "Identify technical problems and develop software updates and ‘fixes’"
+    ],
+    "whoYouAre": [
+      "You are a problem solver and a team player",
+      "You have a keen interest in network and system security",
+      "You possess a strong sense of ownership and take pride in the infrastructure you build"
+    ],
+    "niceToHave": [
+      "Experience with monitoring systems",
+      "Experience with Kafka or other streaming data platforms"
+    ],
+    "requiredSkills": [
+      "CI/CD",
+      "Cloud Computing",
+      "Containerization",
+      "Infrastructure as Code"
+    ],
+    "categories": ["Engineering", "DevOps"],
+    "requirements": [
+      "Experience with CI/CD tools (e.g., Jenkins, CircleCI)",
+      "Experience with cloud platforms (e.g., AWS, Azure, GCP)",
+      "Experience with containerization technologies (e.g., Docker, Kubernetes)",
+      "Experience with infrastructure-as-code tools (e.g., Terraform, CloudFormation)"
+    ],
+    "techStack": ["Jenkins", "AWS", "Docker", "Terraform"],
+    "new": false,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/elijjaaahhhh/image/upload/v1613351929/Group_21_gkcut7.png",
+    "postedAt": "2024-01-18",
+    "deadline": "2024-01-30",
+    "jobsavailaible" : 54
+  },
+  {
+    "id": 7,
+    "title": "QA Engineer",
+    "company": "TechCo",
+    "location": "Remote",
+    "jobType": "Full-Time",
+    "salary": "$80,000 - $100,000",
+    "description": "We are looking for a QA Engineer to join our team. You will be responsible for testing and debugging our web and mobile applications to ensure that they meet our high standards.",
+    "responsibilities": [
+      "Develop and execute test plans to ensure the best software quality",
+      "Automate tests using tools and scripts",
+      "Work with development teams to fix bugs and follow up on resolutions",
+      "Ensure that every phase and feature of the software solution is tested"
+    ],
+    "whoYouAre": [
+      "Detail-oriented and passionate about product quality",
+      "A team player who can communicate effectively with technical and non-technical teams",
+      "Able to handle multiple tasks simultaneously"
+    ],
+    "niceToHave": [
+      "Knowledge of performance and security testing",
+      "Experience with continuous integration and deployment"
+    ],
+    "requiredSkills": ["Testing", "Automation", "Debugging"],
+    "categories": ["Quality Assurance"],
+    "requirements": [
+      "Experience with QA tools (e.g., Selenium, Postman)",
+      "Experience with testing frameworks (e.g., Jest, Mocha)",
+      "Experience with CI/CD tools (e.g., Jenkins, CircleCI)",
+      "Experience with bug tracking tools (e.g., Jira, Trello)"
+    ],
+    "techStack": ["Selenium", "Jest", "Jenkins", "Jira"],
+    "new": false,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/elijjaaahhhh/image/upload/v1612881427/93_eklwtu.png",
+    "postedAt": "2024-01-17",
+    "deadline": "2024-01-27",
+    "jobsavailaible" : 90
+  },
+  {
+    "id": 8,
+    "title": "Software Engineer",
+    "company": "TechCo",
+    "location": "Remote",
+    "jobType": "Full-Time",
+    "salary": "$90,000 - $110,000",
+    "description": "We are looking for a Software Engineer to join our team. You will be responsible for designing and developing scalable and robust applications using the latest web technologies.",
+    "responsibilities": [
+      "Write clean, maintainable and efficient code",
+      "Design robust, scalable and secure features",
+      "Contribute in all phases of the development lifecycle",
+      "Follow best practices (test-driven development, continuous integration, SCRUM, refactoring and code standards)"
+    ],
+    "whoYouAre": [
+      "You are a skilled software engineer who is proficient in a broad range of software design approaches and common UX patterns",
+      "You can discern user requirements and develop specifications",
+      "You are keen to learn, able to adapt and perfect your work"
+    ],
+    "niceToHave": [
+      "Experience with cloud-native development",
+      "Background in DevOps and cloud deployments"
+    ],
+    "requiredSkills": [
+      "Software Development",
+      "Code Maintenance",
+      "Scalable Systems"
+    ],
+    "categories": ["Software Engineering"],
+    "requirements": [
+      "Strong proficiency in HTML, CSS, and JavaScript",
+      "Experience with a JavaScript framework (e.g., React.js, Vue.js, Angular)",
+      "Experience with a backend language (e.g., Node.js, Python, Java)",
+      "Experience with a database management system (e.g., MySQL, MongoDB)"
+    ],
+    "techStack": ["HTML", "CSS", "JavaScript", "React.js"],
+    "new": false,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/elijjaaahhhh/image/upload/v1612844737/Asset_2-100_espzcm.jpg",
+    "postedAt": "2024-01-16",
+    "deadline": "2024-01-25",
+    "jobsavailaible" : 98
+  },
+  {
+    "id": 9,
+    "title": "UX Designer",
+    "company": "Designify",
+    "location": "New York, NY",
+    "jobType": "Full-Time",
+    "salary": "$70,000 - $90,000",
+    "description": "We are looking for a talented UX Designer to create amazing user experiences. The ideal candidate should have an eye for clean and artful design and possess superior UX skills.",
+    "responsibilities": [
+      "Create wireframes, prototypes, and user flows to effectively communicate design ideas",
+      "Collaborate with cross-functional teams to gather and evaluate user requirements",
+      "Conduct user research and usability testing to iterate and improve designs",
+      "Stay up-to-date with industry trends and best practices in UX design"
+    ],
+    "whoYouAre": [
+      "You have a passion for understanding user behaviors and crafting user-centric interfaces",
+      "You are creative and have a strong problem-solving mindset",
+      "You are collaborative and communicate your design decisions effectively"
+    ],
+    "niceToHave": [
+      "Experience in designing for mobile platforms",
+      "Understanding of basic front-end languages: HTML5, CSS3, JavaScript"
+    ],
+    "requiredSkills": [
+      "UX Design",
+      "Wireframing",
+      "Prototyping",
+      "User Research"
+    ],
+    "categories": ["Design", "User Experience"],
+    "requirements": [
+      "Strong portfolio of design projects",
+      "Background in project management and research",
+      "Familiarity with interaction design and information architecture",
+      "Proficient in design software (e.g., Figma, Sketch, Adobe XD)"
+    ],
+    "techStack": ["Figma", "Sketch", "Adobe XD"],
+    "new": false,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/elijjaaahhhh/image/upload/v1612794154/team3_ycuw20.jpg",
+    "postedAt": "2024-01-15",
+    "deadline": "2024-01-23",
+    "jobsavailaible" : 94
+  },
+  {
+    "id": 10,
+    "title": "Product Manager",
+    "company": "TechCo",
+    "location": "Remote",
+    "jobType": "Full-Time",
+    "salary": "$90,000 - $110,000",
+    "description": "We are looking for a Product Manager to join our growing team. You will work closely with our engineering and design teams to guide products from conception to launch.",
+    "responsibilities": [
+      "Define the product vision, strategy, and roadmap",
+      "Gather and prioritize product and customer requirements",
+      "Work closely with engineering teams to deliver quick time-to-market products",
+      "Run beta and pilot programs with early-stage products and samples"
+    ],
+    "whoYouAre": [
+      "A visionary with a deep understanding of customer needs",
+      "Excellent leadership skills and the ability to work closely with different teams",
+      "Strategic thinker with an ability to make complex decisions based on both data and intuition"
+    ],
+    "niceToHave": [
+      "Experience with SaaS products",
+      "Certification in Product Management"
+    ],
+    "requiredSkills": [
+      "Product Management",
+      "Team Collaboration",
+      "Strategic Planning",
+      "Agile Methodologies"
+    ],
+    "categories": ["Product Management"],
+    "requirements": [
+      "Proven experience in product management or as an associate product manager",
+      "Background in software development and program management is a plus",
+      "Familiarity with Agile framework",
+      "Organizational and leadership abilities"
+    ],
+    "techStack": ["Agile"],
+    "new": false,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/elijjaaahhhh/image/upload/v1610108521/path0_qyfbnl.png",
+    "postedAt": "2024-01-14",
+    "deadline": "2024-01-21",
+    "jobsavailaible" : 44
+  },
+  {
+    "id": 11,
+    "title": "Data Scientist",
+    "company": "DataTech",
+    "location": "San Francisco, CA",
+    "jobType": "Full-Time",
+    "salary": "$100,000 - $120,000",
+    "description": "We are looking for a Data Scientist to join our team. You will be responsible for developing statistical learning models for data analysis and conducting tests and experiments.",
+    "responsibilities": [
+      "Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting, and other business outcomes",
+      "Develop company A/B testing framework and test model quality",
+      "Coordinate with different functional teams to implement models and monitor outcomes",
+      "Develop processes and tools to monitor and analyze model performance and data accuracy"
+    ],
+    "whoYouAre": [
+      "You have strong problem-solving skills with an emphasis on product development",
+      "You are data-driven and comfortable with large data sets",
+      "You have strong communication skills and the ability to explain complex analyses in layman's terms"
+    ],
+    "niceToHave": [
+      "Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.",
+      "Experience with natural language processing, machine learning, and conceptual modelling"
+    ],
+    "requiredSkills": [
+      "Data Analysis",
+      "Statistical Modeling",
+      "Machine Learning",
+      "Data Visualization"
+    ],
+    "categories": ["Data Science", "Analytics"],
+    "requirements": [
+      "Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets",
+      "Experience working with and creating data architectures",
+      "Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications",
+      "Experience analyzing data from 3rd party providers: Google Analytics, Site Catalyst, Coremetrics, Adwords, Crimson Hexagon, Facebook Insights, etc."
+    ],
+    "techStack": ["R", "Python", "SQL"],
+    "new": false,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/elijjaaahhhh/image/upload/v1607635639/images_16_pfo5iu.jpg",
+    "postedAt": "2024-01-13",
+    "deadline": "2024-01-19",
+    "jobsavailaible" : 56
+  },
+  {
+    "id": 12,
+    "title": "DevOps Engineer",
+    "company": "DataTech",
+    "location": "San Francisco, CA",
+    "jobType": "Full-Time",
+    "salary": "$95,000 - $115,000",
+    "description": "Join our DevOps team and contribute to the development and maintenance of our infrastructure. You will play a key role in ensuring the reliability and scalability of our systems.",
+    "responsibilities": [
+      "Develop and maintain CI/CD pipeline to automate processes",
+      "Implement and manage cloud-based infrastructure",
+      "Work with containerization technologies for deployment",
+      "Ensure security and efficiency of infrastructure"
+    ],
+    "whoYouAre": [
+      "Problem-solver with a focus on efficiency and scalability",
+      "Keen on automation and improving development processes",
+      "Adept in working in a fast-paced, collaborative environment"
+    ],
+    "niceToHave": [
+      "Experience in managing large-scale infrastructure",
+      "Certification in cloud services and DevOps tools"
+    ],
+    "requiredSkills": [
+      "CI/CD",
+      "Cloud Computing",
+      "Containerization",
+      "Infrastructure as Code"
+    ],
+    "categories": ["Engineering", "DevOps"],
+    "requirements": [
+      "Experience with CI/CD tools (e.g., Jenkins, CircleCI)",
+      "Experience with cloud platforms (e.g., AWS, Azure, GCP)",
+      "Experience with containerization technologies (e.g., Docker, Kubernetes)",
+      "Experience with infrastructure-as-code tools (e.g., Terraform, CloudFormation)"
+    ],
+    "techStack": ["Jenkins", "AWS", "Docker", "Terraform"],
+    "new": false,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/elijjaaahhhh/image/upload/v1600435963/Logo_E_dlpdtp.png",
+    "postedAt": "2024-01-12",
+    "deadline": "2024-01-28",
+    "jobsavailaible" : 101
+  },
+  {
+    "id": 13,
+    "title": "QA Engineer",
+    "company": "DataTech",
+    "location": "San Francisco, CA",
+    "jobType": "Full-Time",
+    "salary": "$85,000 - $105,000",
+    "description": "We are seeking a QA Engineer to ensure the quality of our software products. Collaborate with development teams to implement effective testing strategies and maintain high-quality standards.",
+    "responsibilities": [
+      "Design, develop and execute automation scripts using open-source tools",
+      "Identify, record, document thoroughly, and track bugs",
+      "Perform thorough regression testing when bugs are resolved",
+      "Develop and apply testing processes for new and existing products"
+    ],
+    "whoYouAre": [
+      "Detail-oriented with a passion for software quality",
+      "Team player who excels in a collaborative environment",
+      "Proactive and keen to learn new technologies and tools"
+    ],
+    "niceToHave": [
+      "Experience with performance and/or security testing",
+      "Knowledge of software QA methodologies, tools, and processes"
+    ],
+    "requiredSkills": [
+      "QA Testing",
+      "Automation",
+      "Bug Tracking",
+      "Regression Testing"
+    ],
+    "categories": ["Quality Assurance"],
+    "requirements": [
+      "Experience with QA tools (e.g., Selenium, Postman)",
+      "Experience with testing frameworks (e.g., Jest, Mocha)",
+      "Experience with CI/CD tools (e.g., Jenkins, CircleCI)",
+      "Experience with bug tracking tools (e.g., Jira, Trello)"
+    ],
+    "techStack": ["Selenium", "Jest", "Jenkins", "Jira"],
+    "new": false,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/elijjaaahhhh/image/upload/v1603453526/Free_Sample_By_Wix_h2tuse.jpg",
+    "postedAt": "2024-01-11",
+    "deadline": "2024-01-26",
+    "jobsavailaible" : 88
+  },
+  {
+    "id": 14,
+    "title": "Social Media Assistant",
+    "company": "Stripe",
+    "location": "Paris, France",
+    "jobType": "Full-Time",
+    "salary": "$50,000 - $60,000",
+    "description": "Stripe is seeking a Social Media Assistant to manage our online presence. You will be responsible for monitoring social media channels, creating engaging content, and driving community interaction.",
+    "responsibilities": [
+      "Manage and update social media profiles and presence, including Facebook, Twitter, Instagram, and additional channels",
+      "Create and curate engaging content for social media platforms",
+      "Monitor and report on feedback and online reviews",
+      "Coordinate with Marketing, PR, and Communications teams"
+    ],
+    "whoYouAre": [
+      "Creative thinker with a passion for digital communication",
+      "Strong understanding of the latest trends in social media",
+      "Self-motivated with the ability to work in a fast-paced environment"
+    ],
+    "niceToHave": [
+      "Graphic design skills and familiarity with design software",
+      "Experience with social media analytics tools"
+    ],
+    "requiredSkills": [
+      "Social Media Management",
+      "Content Creation",
+      "Community Engagement",
+      "Communication Skills"
+    ],
+    "categories": ["Marketing", "Social Media"],
+    "requirements": [
+      "Proven experience with social media platforms, including Facebook, Twitter, and Instagram",
+      "Ability to create engaging content that resonates with our audience",
+      "Understanding of social media metrics and how to interpret them to improve strategy",
+      "Excellent communication skills and ability to interact with a diverse online community"
+    ],
+    "techStack": ["Hootsuite", "Canva", "Google Analytics"],
+    "new": true,
+    "featured": true,
+    "logo": "https://res.cloudinary.com/company-logo-here/image/upload/v1677869413/stripe_sm_assistant_logo.svg",
+    "postedAt": "2024-01-31",
+    "deadline": "2024-02-28",
+    "jobsavailaible" : 190
+  },
+  {
+    "id": 15,
+    "title": "Content Writer",
+    "company": "Stripe",
+    "location": "Paris, France",
+    "jobType": "Full-Time",
+    "salary": "$60,000 - $70,000",
+    "description": "Stripe is seeking a Content Writer to join our Marketing team. You will be responsible for creating and publishing engaging content to drive brand awareness and generate leads.",
+    "responsibilities": [
+      "Create and publish engaging content for our website and social media platforms",
+      "Collaborate with Marketing and Design teams to plan and develop site content",
+      "Conduct keyword research and use SEO guidelines to optimize content",
+      "Proofread and edit blog posts before publication"
+    ],
+    "whoYouAre": [
+      "Creative thinker with a passion for writing",
+      "Strong research skills and attention to detail",
+      "Ability to work independently and meet deadlines"
+    ],
+    "niceToHave": [
+      "Experience with content management systems (e.g., WordPress)",
+      "Basic understanding of HTML and web publishing"
+    ],
+    "requiredSkills": ["Content Writing", "SEO", "Copywriting", "Proofreading"],
+    "categories": ["Marketing", "Content"],
+    "requirements": [
+      "Proven experience as a content writer or similar role",
+      "Portfolio of published articles",
+      "Excellent writing and editing skills",
+      "Basic understanding of SEO and web traffic metrics"
+    ],
+    "techStack": ["WordPress", "Google Analytics"],
+    "new": true,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/company-logo-here/image/upload/v1677869413/stripe_content_writer_logo.svg",
+    "postedAt": "2024-01-30",
+    "deadline": "2024-02-25",
+    "jobsavailaible" : 128
+  },
+  {
+    "id": 16,
+    "title": "Graphic Designer",
+    "company": "Stripe",
+    "location": "Paris, France",
+    "jobType": "Full-Time",
+    "salary": "$60,000 - $70,000",
+    "description": "Stripe is seeking a Graphic Designer to join our Marketing team. You will be responsible for creating visual concepts to communicate ideas that inspire, inform, and captivate our audience.",
+    "responsibilities": [
+      "Develop concepts, graphics, and layouts for product illustrations, company logos, and websites",
+      "Collaborate with Marketing and Design teams to create engaging designs",
+      "Use the appropriate colors and layouts for each graphic",
+      "Work with copywriters and creative director to produce final design"
+    ],
+    "whoYouAre": [
+      "Creative thinker with a strong visual sense",
+      "Strong communication skills and ability to collaborate with different teams",
+      "Ability to work methodically and meet deadlines"
+    ],
+    "niceToHave": [
+      "Experience with design software and technologies (e.g., InDesign, Illustrator, Photoshop)",
+      "Knowledge of HTML and CSS"
+    ],
+    "requiredSkills": [
+      "Graphic Design",
+      "Visual Communication",
+      "Typography",
+      "Layout Design"
+    ],
+    "categories": ["Design", "Graphic Design"],
+    "requirements": [
+      "Proven graphic designing experience",
+      "A strong portfolio of illustrations or other graphics",
+      "Familiarity with design software and technologies (such as InDesign, Illustrator, Photoshop)",
+      "A keen eye for aesthetics and details"
+    ],
+    "techStack": ["InDesign", "Illustrator", "Photoshop"],
+    "new": true,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/company-logo-here/image/upload/v1677869413/stripe_graphic_designer_logo.svg",
+    "postedAt": "2024-01-29",
+    "deadline": "2024-02-23",
+    "jobsavailaible" : 74
+  },
+  {
+    "id": 17,
+    "title": "Product Designer",
+    "company": "Stripe",
+    "location": "Paris, France",
+    "jobType": "Full-Time",
+    "salary": "$70,000 - $90,000",
+    "description": "Stripe is seeking a Product Designer to join our Design team. You will be responsible for designing user interfaces for our web and mobile applications.",
+    "responsibilities": [
+      "Develop and maintain design wireframes, mockups, and specifications",
+      "Collaborate with product management and engineering to define and implement innovative solutions for product direction, visuals, and experience",
+      "Conduct user research and usability testing to iterate and improve designs",
+      "Present and defend designs and key milestone deliverables to peers and executive level stakeholders"
+    ],
+    "whoYouAre": [
+      "Creative thinker with a passion for building great user experiences",
+      "Strong communication skills and ability to collaborate with different teams",
+      "Ability to work methodically and meet deadlines"
+    ],
+    "niceToHave": [
+      "Experience in creating wireframes, storyboards, user flows, process flows, and site maps",
+      "Knowledge in HTML, CSS, and JavaScript for rapid prototyping"
+    ],
+    "requiredSkills": [
+      "UX Design",
+      "Interaction Design",
+      "User-Centered Design",
+      "Visual Design"
+    ],
+    "categories": ["Design", "User Experience"],
+    "requirements": [
+      "Proven experience as a product designer or similar role",
+      "Strong portfolio of design projects",
+      "Background in project management and research",
+      "Familiarity with interaction design and information architecture",
+      "Proficient in design software (e.g., Figma, Sketch, Adobe XD)"
+    ],
+    "techStack": ["Figma", "Sketch", "Adobe XD"],
+    "new": true,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/company-logo-here/image/upload/v1677869413/stripe_product_designer_logo.svg",
+    "postedAt": "2024-01-28",
+    "deadline": "2024-02-20",
+    "jobsavailaible" : 78
+  },
+  {
+    "id": 18,
+    "title": "Software Engineer",
+    "company": "Stripe",
+    "location": "Paris, France",
+    "jobType": "Full-Time",
+    "salary": "$90,000 - $110,000",
+    "description": "Stripe is seeking a Software Engineer to join our Engineering team. You will be responsible for designing and developing scalable and robust applications using the latest web technologies.",
+    "responsibilities": [
+      "Write clean, maintainable and efficient code",
+      "Design robust, scalable and secure features",
+      "Contribute in all phases of the development lifecycle",
+      "Follow best practices (test-driven development, continuous integration, SCRUM, refactoring and code standards)"
+    ],
+    "whoYouAre": [
+      "You are a skilled software engineer who is proficient in a broad range of software design approaches and common UX patterns",
+      "You can discern user requirements and develop specifications",
+      "You are keen to learn, able to adapt and perfect your work"
+    ],
+    "niceToHave": [
+      "Experience with cloud-native development",
+      "Background in DevOps and cloud deployments"
+    ],
+    "requiredSkills": [
+      "Software Development",
+      "Code Maintenance",
+      "Scalable Systems",
+      "Security"
+    ],
+    "categories": ["Software Engineering"],
+    "requirements": [
+      "Strong proficiency in HTML, CSS, and JavaScript",
+      "Experience with a JavaScript framework (e.g., React.js, Vue.js, Angular)",
+      "Experience with a backend language (e.g., Node.js, Python, Java)",
+      "Experience with a database management system (e.g., MySQL, MongoDB)"
+    ],
+    "techStack": ["HTML", "CSS", "JavaScript", "React.js"],
+    "new": true,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/company-logo-here/image/upload/v1677869413/stripe_software_engineer_logo.svg",
+    "postedAt": "2024-01-27",
+    "deadline": "2024-02-18",
+    "jobsavailaible" : 60
+  },
+  {
+    "id": 19,
+    "title": "Data Scientist",
+    "company": "Stripe",
+    "location": "Paris, France",
+    "jobType": "Full-Time",
+    "salary": "$100,000 - $120,000",
+    "description": "Stripe is seeking a Data Scientist to join our Data Science team. You will be responsible for developing statistical learning models for data analysis and conducting tests and experiments.",
+    "responsibilities": [
+      "Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting, and other business outcomes",
+      "Develop company A/B testing framework and test model quality",
+      "Coordinate with different functional teams to implement models and monitor outcomes",
+      "Develop processes and tools to monitor and analyze model performance and data accuracy"
+    ],
+    "whoYouAre": [
+      "You have strong problem-solving skills with an emphasis on product development",
+      "You are data-driven and comfortable with large data sets",
+      "You have strong communication skills and the ability to explain complex analyses in layman's terms"
+    ],
+    "niceToHave": [
+      "Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.",
+      "Experience with natural language processing, machine learning, and conceptual modelling"
+    ],
+    "requiredSkills": [
+      "Data Analysis",
+      "Statistical Modeling",
+      "Machine Learning",
+      "Data Visualization"
+    ],
+    "categories": ["Data Science", "Analytics"],
+    "requirements": [
+      "Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets",
+      "Experience working with and creating data architectures",
+      "Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications",
+      "Experience analyzing data from 3rd party providers: Google Analytics, Site Catalyst, Coremetrics, Adwords, Crimson Hexagon, Facebook Insights, etc."
+    ],
+    "techStack": ["R", "Python", "SQL"],
+    "new": true,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/company-logo-here/image/upload/v1677869413/stripe_data_scientist_logo.svg",
+    "postedAt": "2024-01-26",
+    "deadline": "2024-02-15",
+    "jobsavailaible" : 63
+  },
+  {
+    "id": 20,
+    "title": "DevOps Engineer",
+    "company": "Stripe",
+    "location": "Paris, France",
+    "jobType": "Full-Time",
+    "salary": "$95,000 - $115,000",
+    "description": "Stripe is seeking a DevOps Engineer to join our DevOps team. You will be responsible for implementing and managing our CI/CD pipeline and ensuring that all systems are working properly.",
+    "responsibilities": [
+      "Build and set up new development tools and infrastructure",
+      "Work on ways to automate and improve development and release processes",
+      "Ensure that systems are safe and secure against cybersecurity threats",
+      "Identify technical problems and develop software updates and ‘fixes’"
+    ],
+    "whoYouAre": [
+      "Problem-solver with a focus on efficiency and scalability",
+      "Keen on automation and improving development processes",
+      "Adept in working in a fast-paced, collaborative environment"
+    ],
+    "niceToHave": [
+      "Experience in managing large-scale infrastructure",
+      "Certification in cloud services and DevOps tools"
+    ],
+    "requiredSkills": [
+      "CI/CD",
+      "Cloud Computing",
+      "Containerization",
+      "Infrastructure as Code"
+    ],
+    "categories": ["Engineering", "DevOps"],
+    "requirements": [
+      "Experience with CI/CD tools (e.g., Jenkins, CircleCI)",
+      "Experience with cloud platforms (e.g., AWS, Azure, GCP)",
+      "Experience with containerization technologies (e.g., Docker, Kubernetes)",
+      "Experience with infrastructure-as-code tools (e.g., Terraform, CloudFormation)"
+    ],
+    "techStack": ["Jenkins", "AWS", "Docker", "Terraform"],
+    "new": true,
+    "featured": false,
+    "logo": "https://res.cloudinary.com/company-logo-here/image/upload/v1677869413/stripe_devops_engineer_logo.svg",
+    "postedAt": "2024-01-25",
+    "deadline": "2024-02-12",
+    "jobsavailaible" : 44
+  }
+]
