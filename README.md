@@ -1,6 +1,6 @@
 # Project: Jobhuntly
 
-This is part of Capstone project in BIT, to build a Ruby on Rails application where people can write articles. Find it https://www.notion.so/Lifestyle-articles-b82a5f10122b4cec924cd5d4a6cf7561.
+This is part of Capstone project in BIT, to build an appliation where people who are passionate about startups can find and apply for jobs.  Find it https://www.notion.so/Lifestyle-articles-b82a5f10122b4cec924cd5d4a6cf7561.
 This is a website with articles about books, wedding business, fishing equipment, mushrooms - anything that you can write an article.
 
 ## Built With
@@ -9,24 +9,18 @@ This is a website with articles about books, wedding business, fishing equipment
 - Ruby on Rails v6.0.2.1
 
 ## Technologies
-- HTML
-- CSS
-- Ruby
+- React
+- JavaScript
+- Tailwind
 - Ruby On Rails
-- SASS
-- Cloudinary
+
+
 
 ## Live Demo(video link)
 https://www.loom.com/share/9ba0037865ce40e6b6a890a34d4e632a
 
-## Deployment to heroku
-https://buzzlife.herokuapp.com/
+## Deployment to vercel
 
-![](https://res.cloudinary.com/elijjaaahhhh/image/upload/v1590520670/BuzzLife_fdtxiy.png)
-
-![](https://res.cloudinary.com/elijjaaahhhh/image/upload/v1590520670/BuzzLife-2_banun3.png)
-
-![](https://res.cloudinary.com/elijjaaahhhh/image/upload/v1590523866/FireShot_Capture_101_-_BuzzLife_-_buzzlife.herokuapp.com_mwuqko.png)
 
 ## Prerequisites
 
@@ -36,9 +30,9 @@ https://buzzlife.herokuapp.com/
 ## Functionalities 
 - Signup
 - Login
-- Create articles
-- upload images
-- vote or unvote an article
+- Find Jobs
+- Filter jobs by category
+- Apply for jobs
 - Delete articles
 - Show articles with highest votes on home page
 - Show most popular articles
@@ -53,7 +47,7 @@ $ git clone https://github.com/Elijahscriptdev/Buzz_me.git
 
 Navigate to the extracted folder
 sh
-$ cd Buzz_me
+$ cd Jobhuntly
 
 
 Install the gems
@@ -81,7 +75,7 @@ $ rails db:seed
 Start server with:
 
 sh
-    rails server
+    npm start
 
 
 Open `http://localhost:3000/` in your browser.
@@ -95,7 +89,7 @@ Open `http://localhost:3000/` in your browser.
 
 ## Author
 
-👤 *Elijah Obominuru*
+👤 *Damilola Babatunde*
 
 https://github.com/Elijahscriptdev | https://twitter.com/ElijahObominuru | https://www.linkedin.com/in/elijah-obominuru-0b730b143/
 

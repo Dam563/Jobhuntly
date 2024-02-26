@@ -17,10 +17,10 @@ const Footer = () => {
                     />
                     <div className="grow">JobHuntly</div>
                   </div>
-                  <div className="mt-10 text-base leading-7 text-zinc-200">
-                    Great platform for the job seeker that passionate about
+                  <p className="mt-10 text-base leading-7 text-zinc-200">
+                    Great platform for the job seeker that is passionate about
                     startups. Find your dream job easier.
-                  </div>
+                  </p>
                 </div>
               </div>
               <div className="flex flex-col items-stretch ml-5 w-[66%] max-md:ml-0 max-md:w-full">
@@ -31,8 +31,8 @@ const Footer = () => {
                         <div className="text-lg font-semibold text-white">
                           About
                         </div>
-                        <div className="mt-7">Companies</div>
-                        <div className="mt-4">Pricing</div>
+                        <p className="mt-7">Companies</p>
+                        <p className="mt-4">Pricing</p>
                         <div className="mt-4">Terms</div>
                         <div className="mt-4">Advice</div>
                         <div className="mt-4">Privacy Policy</div>
