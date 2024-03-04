@@ -156,7 +156,7 @@ const JobDetails = () => {
         contentLabel="Example Modal"
       >
                 <div className="mt-10 mx-0 bg-white px-10 shadow-md border-white rounded-xl lg:w-[50%] lg:mx-auto">
-                  <div className=" w-[300px] lg:w-[500px]ml-0 lg:mx-auto p-5 mb-16 bg-white border-b-2 border-zinc-200">
+                  <div className=" w-[300px] lg:w-[500px] ml-0 lg:mx-auto p-5 mb-16 bg-white border-b-2 border-zinc-200">
                   <div className="flex justify-end mt-10">
                   <img src={close} alt="logo" className="w-[24px] h-[24px] cursor-pointer" onClick={closeModal}/>
                           <div></div>
